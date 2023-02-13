@@ -24,5 +24,12 @@
 
 > Failed Register -> ERROR_REGISTER
 
+### InviteAPI(admintool.php)
+> this API can Help you generate invitecode.
+#### admintool.php?inviter=inviter&authKey=authKey&codefrom=codefrom
+
+> Invalid User -> INVALID_USER
+
+> NOT ADMIN -> NO_ACCESS
 
 
