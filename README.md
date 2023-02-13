@@ -1,5 +1,5 @@
 # InvalidAPI - Version 1.0.0
-## A Simple API Wrote with PHP. (SQL)
+## A Simple API Code with PHP. (SQL)
 
 ### HTTP GET
 
