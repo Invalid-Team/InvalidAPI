@@ -15,3 +15,14 @@
 
 > got banned -> BANNED_USER
 
+### RegisterAPI(register.php)
+#### register.php?user=username&pass=password&invitecode=invitecode
+
+> invalid invite code -> INVALID_INVITECODE
+
+> Success register -> SUCCESS_REGISTER
+
+> Failed Register -> ERROR_REGISTER
+
+
+
